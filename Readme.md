@@ -9,5 +9,7 @@ Optifine animated textures support.
 Optifine custom entity textures support.
 Pin almost every data from the F3 menu onto your screen.
 Minimap and worldmap.
-
 And much more!
+
+
+Also please report issues, incompatabilities and feedback in this Github page.
